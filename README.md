@@ -1,6 +1,8 @@
-# Flask Spelling Bee
+# Soletra Cheat
 
-This is a simple web application built with Flask that generates possible words from a given set of 7 letters.
+This is a simple web application built with Flask that generates possible words for the daily game Soletra by G1 https://g1.globo.com/jogos/soletra/.
+
+It can also be used for the game Spelling Bee, but you will need a Python list with all the words from the English language and substitute in the minha_lista.py file.
 
 ## Getting Started
 
